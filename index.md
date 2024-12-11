@@ -1,4 +1,4 @@
- # Hector Martine's Portfolio
+ # Hector Martinez's Portfolio
  
  I am a computer science major and plan on graduating in 2028 hopefully.
 
