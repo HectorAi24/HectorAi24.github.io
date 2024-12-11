@@ -2,6 +2,8 @@
  
 I am a computer science major and plan on graduating in 2028 hopefully.
 
+[Github Account](https://github.com/HectorAi24)
+
 ## Favorite CPSC 120L Labs
 
 Lab 11, Part 1 
